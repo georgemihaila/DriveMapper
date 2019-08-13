@@ -3,6 +3,6 @@ Maps a network drive to an available drive letter. The credentials must be suppl
 
 Usage:
 
-dmap.exe \\\\server\share\[folder]
+dmap.exe \\\\server\share\\[folder]
 
 In case a drive is not explicitly specified, the app tries to use the clipboard.
