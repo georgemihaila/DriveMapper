@@ -1,8 +1,0 @@
-C:\Users\gmihaila\source\repos\DriveMapper\DriveMapper\obj\Debug\DriveMapper.csprojAssemblyReference.cache
-C:\Users\gmihaila\source\repos\DriveMapper\DriveMapper\obj\Debug\DriveMapper.csproj.CoreCompileInputs.cache
-C:\Users\gmihaila\source\repos\DriveMapper\DriveMapper\bin\Debug\user.txt
-C:\Users\gmihaila\source\repos\DriveMapper\DriveMapper\bin\Debug\dmap.exe.config
-C:\Users\gmihaila\source\repos\DriveMapper\DriveMapper\bin\Debug\dmap.exe
-C:\Users\gmihaila\source\repos\DriveMapper\DriveMapper\bin\Debug\dmap.pdb
-C:\Users\gmihaila\source\repos\DriveMapper\DriveMapper\obj\Debug\dmap.exe
-C:\Users\gmihaila\source\repos\DriveMapper\DriveMapper\obj\Debug\dmap.pdb
